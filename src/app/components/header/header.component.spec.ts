@@ -20,4 +20,7 @@ describe('HeaderComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+  it(`should have as text 'KOUAMO Bryan'`, () => {
+    expect(component).toBeTruthy();
+  });
 });

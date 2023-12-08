@@ -91,16 +91,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css", 
-              "src/css/components.css",
-              "src/css/icons.css",
-             "src/assets/css/responsee.css",
-  "src/assets/owl-carousel/owl.carousel.css",
-  "src/owl-carousel/owl.theme.css",
-  "src/css/template-style.css",
-  "https://fonts.googleapis.com/css?family=Playfair+Display&subset=latin,latin-ext",
-  "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800&subset=latin,latin-ext"
+            
             ],
             "scripts": []
           }

@@ -20,4 +20,8 @@ describe('FooterComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+  it(`should have as text 'Bryan beauclaire'`, () => {
+    expect(component).toBeTruthy();
+  });
+
 });
